@@ -21,13 +21,13 @@ public class Main {
 		
 		ts.saveTextToFile("roman siforov");
 		
-		ts.setTransformer(it);
-		
-		ts.saveTextToFile("roman siforov");
-		
-		ts.setTransformer(udt);
-		
-		ts.saveTextToFile("roman siforov");
+//		ts.setTransformer(it);
+//		
+//		ts.saveTextToFile("roman siforov");
+//		
+//		ts.setTransformer(udt);
+//		
+//		ts.saveTextToFile("roman siforov");
 
 	}
 
